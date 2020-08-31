@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Odoo ERP</string>
+    <string name="retry">Retry</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="confirm_message">Are you sure you want to exit?</string>
+    <string name="exit">Exit ?</string>
+    <string name="save">Save</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="cancel">cancel</string>
+</resources>
